@@ -1,0 +1,63 @@
+site_name: Maison Castel
+site_description: Projet immobilier locatif commercial — 1 place de la Mairie, Castelmaurou
+site_url: ""
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+
+nav:
+  - Accueil: index.md
+  - Marché & Demande: marche.md
+  - Juridique — Baux: juridique.md
+  - Urbanisme & ERP: urbanisme.md
+  - Business Plan: business-plan.md
+  - Commercialisation: commercialisation.md
+  - Plan & Actions: plan-actions.md
+  - Documents originaux: documents-originaux.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - attr_list
+  - md_in_html
+
+extra:
+  social: []
+  generator: false
