@@ -43,6 +43,7 @@ nav:
   - Commercialisation: commercialisation.md
   - Plan & Actions: plan-actions.md
   - Documents originaux: documents-originaux.md
+  - Roadmap: roadmap.md
 
 plugins:
   - search
