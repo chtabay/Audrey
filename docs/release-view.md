@@ -300,7 +300,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag marche">Marché</span>
-      <span class="rv-card-link"><a href="marche.md">voir →</a></span>
+      <span class="rv-card-link"><a href="../marche/">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -312,7 +312,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag marche">Marché</span>
-      <span class="rv-card-link"><a href="marche.md#zone-de-chalandise">voir →</a></span>
+      <span class="rv-card-link"><a href="../marche/#zone-de-chalandise">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -324,7 +324,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag juridique">Juridique</span>
-      <span class="rv-card-link"><a href="juridique.md">voir →</a></span>
+      <span class="rv-card-link"><a href="../juridique/">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -336,7 +336,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag urba">Urbanisme</span>
-      <span class="rv-card-link"><a href="urbanisme.md">voir →</a></span>
+      <span class="rv-card-link"><a href="../urbanisme/">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -348,7 +348,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag finance">Finance</span>
-      <span class="rv-card-link"><a href="business-plan.md">voir →</a></span>
+      <span class="rv-card-link"><a href="../business-plan/">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -360,7 +360,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag commercial">Commercial</span>
-      <span class="rv-card-link"><a href="commercialisation.md">voir →</a></span>
+      <span class="rv-card-link"><a href="../commercialisation/">voir →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:100%; background:var(--rv-done)"></div></div>
   </div>
@@ -382,7 +382,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag urba">Urbanisme</span>
-      <span class="rv-card-link"><a href="plan-actions.md#priorite-1-immediat-cette-semaine">actions →</a></span>
+      <span class="rv-card-link"><a href="../plan-actions/#priorite-1-immediat-cette-semaine">actions →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:10%; background:var(--rv-progress)"></div></div>
   </div>
@@ -592,7 +592,7 @@
     </div>
     <div class="rv-card-meta">
       <span class="rv-tag commercial">Commercial</span>
-      <span class="rv-card-link"><a href="commercialisation.md">plan →</a></span>
+      <span class="rv-card-link"><a href="../commercialisation/">plan →</a></span>
     </div>
     <div class="rv-card-bar"><div class="rv-card-bar-fill" style="width:0%; background:var(--rv-planned)"></div></div>
   </div>
